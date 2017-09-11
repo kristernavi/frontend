@@ -1,0 +1,7 @@
+var json_data = {
+
+    "data": {
+        "label": ["Product Service", "Brand", "Country", "Category"],
+        "value": [51, 30, 40, 28]
+    }
+}
